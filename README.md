@@ -65,6 +65,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
+<img align="left" alt="terminal" width="66px" src="https://www.extjs.com/wp-content/uploads/2019/09/Logo-Sencha-ExtJS-LightBGs.png" />
+
+<img align="left" alt="terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/ios-apple-572947.png" />
+
+
 <br />
 <br />
 
