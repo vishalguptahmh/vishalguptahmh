@@ -8,13 +8,17 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Some Android demo work:
-- <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
 - <a href="https://github.com/vishalguptahmh/Android-Cheat-Sheet" target="_blank">Android helping snippets</a>
-- 
+- <a href="https://github.com/vishalguptahmh/gradle-things" target="_blank">Gradle helping snippets</a>
+- <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
 
 ### Some Web demo work:
+- <a href="https://github.com/vishalguptahmh/web-developer-cheatsheet" target="_blank">Web helping snippets</a>
 - <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation work</a>
 - <a href="https://vishalguptahmh.github.io/demo1" target="_blank">Website Demo work</a>
+
+### Some iOS demo work:
+- <a href="https://github.com/vishalguptahmh/ios_cheat_sheet" target="_blank">iOS helping snippets</a>
 
 ### Connect with me:
 
