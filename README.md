@@ -13,6 +13,8 @@
 - <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
 
 ### Some Web demo work:
+
+- <a href="https://playstorefetch.herokuapp.com/" target="_blank">Search playstore app and api</a>
 - <a href="https://github.com/vishalguptahmh/web-developer-cheatsheet" target="_blank">Web helping snippets</a>
 - <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation - card layout dangling</a>
 - <a href="https://vishalguptahmh.github.io/web-animation-demo3/" target="_blank">Web Animation - remove blur from image as mouse moves </a>
