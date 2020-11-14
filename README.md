@@ -14,7 +14,8 @@
 
 ### Some Web demo work:
 - <a href="https://github.com/vishalguptahmh/web-developer-cheatsheet" target="_blank">Web helping snippets</a>
-- <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation work</a>
+- <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation - card layout dangling</a>
+- <a href="https://vishalguptahmh.github.io/web-animation-demo3/" target="_blank">Web Animation - remove blur from image as mouse moves </a>
 - <a href="https://vishalguptahmh.github.io/demo1" target="_blank">Website Demo work</a>
 
 ### Some iOS demo work:
