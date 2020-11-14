@@ -7,6 +7,15 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+### Some Android demo work:
+- <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
+- <a href="https://github.com/vishalguptahmh/Android-Cheat-Sheet" target="_blank">Android helping snippets</a>
+- 
+
+### Some Web demo work:
+- <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation work</a>
+- <a href="https://vishalguptahmh.github.io/demo1" target="_blank">Website Demo work</a>
+
 ### Connect with me:
 
 <p align="center">
