@@ -22,6 +22,8 @@
 ### Some iOS demo work:
 - <a href="https://github.com/vishalguptahmh/ios_cheat_sheet" target="_blank">iOS helping snippets</a>
 
+### Others
+- [Regular expression guide](https://github.com/vishalguptahmh/Regex-RegularExpression/blob/main/README.md)
 ### Connect with me:
 
 <p align="center">
