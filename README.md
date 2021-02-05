@@ -25,6 +25,8 @@
 ### Others
 - [Regular expression guide](https://github.com/vishalguptahmh/Regex-RegularExpression/blob/main/README.md)
 - [Git Helper](https://github.com/vishalguptahmh/githelper)
+- [PowerShell helper](https://github.com/vishalguptahmh/Powershell-helper)
+
 ### Connect with me:
 
 <p align="center">
