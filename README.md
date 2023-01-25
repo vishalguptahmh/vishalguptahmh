@@ -2,16 +2,17 @@
 ### Hi there, I'm Vishal Gupta  👋
 
 ## I'm a Software developer!
-- 📱 I’m currently working on a Android as fulltime
-- 🌱 I’m currently learning ios,deno,node
+- 📱 I’m currently working on a Android,iOS, Backend as fulltime
+- 🌱 I’m currently deno and c#
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Some Android demo work:
 - <a href="https://github.com/vishalguptahmh/Android-Cheat-Sheet" target="_blank">Android helping snippets</a>
 - <a href="https://github.com/vishalguptahmh/gradle-things" target="_blank">Gradle helping snippets</a>
 - <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
 - <a href="https://github.com/vishalguptahmh/android_sdk_sample" target="_blank">Android Lib example</a>
+- <a href="https://github.com/vishalguptahmh/GeneralSoftwareHelp" target="_blank">General Software help</a>
 
 ### Some Web demo work:
 - [Search playstore app and api](https://playstorefetch.herokuapp.com/)
