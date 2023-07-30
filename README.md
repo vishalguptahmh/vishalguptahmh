@@ -11,15 +11,17 @@
 - <a href="https://github.com/vishalguptahmh/Android-Cheat-Sheet" target="_blank">Android helping snippets</a>
 - <a href="https://github.com/vishalguptahmh/gradle-things" target="_blank">Gradle helping snippets</a>
 - <a href="https://play.google.com/store/apps/details?id=com.moode&hl=en_IN" target="_blank">Talentopedia App</a>
-- <a href="https://github.com/vishalguptahmh/android_sdk_sample" target="_blank">Android Lib example</a>
+- <a href="https://github.com/vishalguptahmh/android_sdk_sample" target="_blank">Android SDK Lib example</a>
 - <a href="https://github.com/vishalguptahmh/GeneralSoftwareHelp" target="_blank">General Software help</a>
 
 ### Some Web demo work:
+- <a href="https://github.com/vishalguptahmh/web-developer-cheatsheet" target="_blank">Web snippets</a>
 - [Search playstore app and api](https://playstorefetch.herokuapp.com/)
-- <a href="https://github.com/vishalguptahmh/web-developer-cheatsheet" target="_blank">Web helping snippets</a>
 - <a href="https://vishalguptahmh.github.io/web-demo2-animation" target="_blank">Web Animation - card layout dangling</a>
 - <a href="https://vishalguptahmh.github.io/web-animation-demo3/" target="_blank">Web Animation - remove blur from image as mouse moves </a>
 - <a href="https://vishalguptahmh.github.io/demo1" target="_blank">Website Demo work</a>
+- <a href="https://github.com/vishalguptahmh/web_ideabox" target="_blank">Idea Box</a>
+- <a href="https://github.com/vishalguptahmh/Angular" target="_blank">Angular</a>
 
 ### Some iOS demo work:
 - <a href="https://github.com/vishalguptahmh/ios_cheat_sheet" target="_blank">iOS helping snippets</a>
@@ -28,6 +30,7 @@
 - [Regular expression guide](https://github.com/vishalguptahmh/Regex-RegularExpression/blob/main/README.md)
 - [Git Helper](https://github.com/vishalguptahmh/githelper)
 - [PowerShell helper](https://github.com/vishalguptahmh/Powershell-helper)
+- [Data structure](https://github.com/vishalguptahmh/datastructure)
 
 ### Connect with me:
 
