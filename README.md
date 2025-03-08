@@ -3,9 +3,9 @@
 
 ## I'm a Staff Software developer!
 - 📱 I’m currently working on a Android,iOS, Backend as fulltime
-- 🌱 I’m currently deno and c#
+- 🌱 I’m currently learning deno and c#
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 Want to contribute more to Open Source projects
 
 ### Some Android demo work:
 - <a href="https://github.com/vishalguptahmh/Android-Cheat-Sheet" target="_blank">Android helping snippets</a>
